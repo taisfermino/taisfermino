@@ -2,7 +2,6 @@
 
 - 🔭 Estagiando como front-end web no C6 BANK
 - 🌱 Estudo principalmente React, Javascript, CSS, UI e Acessibilidade
-- 📫 Contato pelo email: taisfermino4954@gmail.com
 - 😄 Pronomes: Ela/Dela
 - 🎓 Formação: Técnica em Desenvolvimento de Sistemas pela ETEC
 - 💻 Em formação: Analise e Desenvolvimento de Sitemas pela SPTECH
