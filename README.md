@@ -1,4 +1,4 @@
-## Olá, eu sou a Tais Fermino 👋
+## Olá, eu sou a Tais 👋
 
 - 🔭 Estagiando como front-end web no C6 BANK
 - 🌱 Estudo principalmente React, Javascript, CSS, UI e Acessibilidade
