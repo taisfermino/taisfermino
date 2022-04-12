@@ -4,7 +4,7 @@
 - 🌱 Estudo principalmente React, Javascript, CSS, UI e Acessibilidade
 - 😄 Pronomes: Ela/Dela
 - 🎓 Formação: Técnica em Desenvolvimento de Sistemas pela ETEC
-- 💻 Em formação: Analise e Desenvolvimento de Sitemas pela SPTECH
+- 💻 Em formação: Analise e Desenvolvimento de Sistemas pela SPTECH
 - ⚡Curiosidade: Maquiadora profissional (social e artistica)
 - 📌 Brasil / SP
 
