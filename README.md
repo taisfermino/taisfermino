@@ -1,12 +1,11 @@
 ## Olá, eu sou a Tais 👋
 
-- 🔭 Estagiando como front-end web no C6 BANK
+- 🔭 Atuo como Jr Tech Analyst (Front-End) no C6 BANK
 - 🌱 Estudo principalmente React, Javascript, CSS, UI e Acessibilidade
 - 😄 Pronomes: Ela/Dela
-- 🎓 Formação: Técnica em Desenvolvimento de Sistemas pela ETEC
-- 💻 Em formação: Analise e Desenvolvimento de Sistemas pela SPTECH
+- 🎓 Formação: Técnica e Técnologa em Análise e Desenvolvimento de Sistemas (ETEC/SPTECH)
 - ⚡Curiosidade: Maquiadora profissional (social e artistica)
-- 📌 Brasil / SP
+- 📌 Brasil/SP
 
  <div align="center">
   <a href="https://github.com/taisfermino">
